@@ -25,7 +25,6 @@ const Footer = () =>{
         <li>Media Centre</li>
         <li>Privacy</li>
         <li>Contact us</li>
-        <li></li>
       </ul>
       <p className='copyright-text'>© 1997-2023 Netflix, Inc.</p>
       </div>
